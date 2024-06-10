@@ -1,2 +1,2 @@
 # ble_sensors
-Monitor for BLE sensors - emperature, humigity, vibration alarm
+Monitor for BLE sensors - temperature, humidity, vibration alarm
